@@ -1,0 +1,74 @@
+.container{
+	width:  100%;
+}
+.img-info {
+	width: 100%;
+}
+.img-info h2 {
+	padding: 30px 30px 20px;
+	font-family: arial;
+	font-size: 50px;
+	color: darkred;
+	line-height: 44px;
+}
+.img-info p {
+	padding: 0px 30px 20px;
+	font-family: arial;
+	font-size: 16px;
+	color: blue;
+	line-height: 24px;
+}
+.additional-img1 {
+	width: 100%;
+}
+.additional-img2 {
+	width: 100%;
+}
+.main-img {
+	width: 100%;
+}
+
+@media only screen and (min-width:  768px) {
+	.container{
+	width:  600px;
+	margin: 0 auto;
+}
+.img-info h2 {
+	padding: 20px 0px 0px;
+}
+.img-info p {
+	padding: 20px 0px 0px;
+}
+.additional-img1 {
+	padding: 50px;
+}
+.additional-img2 {
+	padding: 50px;
+}
+
+}
+
+@media only screen and (min-width:  1000px) {
+	.container{
+	width:  1000px;
+}
+.img-info h2 {
+	padding: 20px 0px 0px 30px;
+	vertical-align: center;
+}
+.img-info p {
+	padding: 20px 0px 0px 30px;
+}
+
+.additional-img1 {
+	padding: 20px 0px 0px 0px;
+	width: 50%;
+	float: left;
+}
+.additional-img2 {
+	padding: 20px 0px 0px 0px;
+	width: 50%;
+	float: right;
+}
+
+}
