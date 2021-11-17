@@ -1,0 +1,84 @@
+		#container{
+			width: 400px;
+			height:  600px;
+			background-color: deeppink;
+			margin-right: auto;
+			margin-left: auto;
+			overflow: hidden;
+			border: solid;
+		}
+				
+
+		#box1{
+			width: 400px;
+			height: 50px;
+			background-color: powderblue;
+			float: right; <!-- this puts it to the left of the things before it-->
+		}
+		#box2{
+			width: 398px;
+			height: 100px;
+			background-color: white;
+			float: right;
+			border: solid;
+			border-width: 1px;
+			margin: auto;
+		}
+#box3{
+			width: 398px;
+			height: 100px;
+			background-color: white;
+			float: right;
+			border: solid;
+			border-width: 1px;
+			margin: auto;
+		}
+#box4{
+			width: 398px;
+			height: 100px;
+			background-color: white;
+			float: right;
+			border: solid;
+			border-width: 1px;
+			margin: auto;
+		}
+#box5{
+			width: 398px;
+			height: 100px;
+			background-color: white;
+			float: right;
+			border: solid;
+			border-width: 1px;
+			margin: auto;
+		}
+#box6{
+			width: 398px;
+			height: 100px;
+			background-color: white;
+			float: right;
+			border: solid;
+			border-width: 1px;
+			margin: auto;
+		}
+#box7{
+			width: 398px;
+			height: 100px;
+			background-color: white;
+			float: right;
+			border: solid;
+			border-width: 1px;
+			margin: auto;
+		}
+		img {
+			float:right;
+			width: 100px;
+		}
+		
+		h2 {
+			width:200px;
+		}
+		#image{
+			width:40px;
+			float: right;
+		}
+
