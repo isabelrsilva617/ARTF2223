@@ -1,0 +1,120 @@
+#container{
+    width: 400px;
+    height:  600px;
+    background-color: deeppink;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: hidden;
+    border: solid;
+}
+
+#box1{
+    width: 400px;
+    height: 50px;
+    background-color: powderblue;
+    float: right; 
+}
+
+#box2{
+    width: 398px;
+    height: 200px;
+    background-color: white;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+#box2I{
+    width: 398px;
+    height: 100px;
+    background-color: white;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+#box2MI{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    float: right;
+    margin: auto;
+}
+
+#box3AT{
+    width: 398px;
+    height: 200px;
+    background-color: white;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+#box3{
+    width: 398px;
+    height: 100px;
+    background-color: white;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+#box3MI{
+    width: 400PX;
+    height: 200px;
+    background-color: white;
+    float: right;
+    margin: auto;
+align-content: space-around;
+}
+
+#box4{
+    width: 398px;
+    height: 400px;
+    background-color: white;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+#box4B{
+    width: 398px;
+    height: 200px;
+    background-color: white;
+    float: right;
+    border: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+.miImage{
+    vertical-align: center;
+}
+.iImage {
+    width:40px;
+	float: right;
+}
+
+h1 {
+	text-align: left;
+display: inline;
+}
+
+
+h4 {
+	text-align: center;
+	font-size: 40px;
+	height:5px;
+
+}
+h5{ 
+    margin-top: 10px;
+margin-bottom: 0px;
+    font-size: 24px;
+
+}
